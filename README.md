@@ -26,7 +26,7 @@ spring.cache.redis.time-to-live=60000
 
 # redis requirements
 
- <dependency>
+       <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-data-redis</artifactId>
         </dependency>
