@@ -20,7 +20,7 @@ spring.cache.redis.time-to-live=60000
 
                 <configuration>
                     <image>
-                        <name>09/2022-v1caching-${project.artifactId}:${project.version}</name>
+                        <name>092022/v1caching-${project.artifactId}:${project.version}</name>
                     </image>
                 </configuration> 
 
